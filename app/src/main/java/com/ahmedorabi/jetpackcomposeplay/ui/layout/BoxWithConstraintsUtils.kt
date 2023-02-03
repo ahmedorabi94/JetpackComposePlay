@@ -45,10 +45,10 @@ private fun MyBoxWithConstraintsDemo() {
     }
 }
 
-@Preview(showBackground = true)
-@Composable
-fun DefaultPreview() {
-    JetpackComposePlayTheme {
-        BoxWithConstraintsDemo()
-    }
-}
+//@Preview(showBackground = true)
+//@Composable
+//fun DefaultPreview() {
+//    JetpackComposePlayTheme {
+//        BoxWithConstraintsDemo()
+//    }
+//}
